@@ -1,3 +1,10 @@
+--[[lit-meta
+  name = "lua/fun"
+  version = "0.1.0"
+  description = "a high-performance functional programming library for LuaJIT"
+  author = { name = "Roman Tsisyk", email="roman@tsisyk.com" }
+]]
+
 ---
 --- Lua Fun - a high-performance functional programming library for LuaJIT
 ---
