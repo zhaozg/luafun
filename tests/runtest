@@ -1,4 +1,4 @@
-#!/usr/bin/env lua
+#!/usr/bin/env luajit
 
 package.path = "../?.lua;"..package.path
 require "fun" ()
